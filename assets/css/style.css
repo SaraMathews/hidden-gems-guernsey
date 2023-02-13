@@ -111,8 +111,8 @@ footer {
 
 /* Contact form */
 .contact-form {
-    height: 600px;
-    width: 70vw;
+    height: 550px;
+    width: 300px;
     background-color: rgb(139, 112, 101, 0.7);
     margin: auto;
     margin-top: 250px;
@@ -127,18 +127,24 @@ h3 {
     font-size: 3rem;
     text-align: center;
     color: white;
+    margin-bottom: 20px;
+}
+
+label {
+    color: white;
 }
 
 .text-input {
-    background: white;
-    color: #8B7065;
-    width: 80%;
+    background: rgb(255, 255, 255, 0.8);
+    color: black;
+    width: 250px;
     height: 30px;
     margin: 5px 0 20px 0;
 }
     
 .question {
-    width: 80%;
+    background: rgb(255, 255, 255, 0.8);
+    width: 250px;
     height: 200px;
 
 }
@@ -148,6 +154,15 @@ h3 {
     border-radius: 4px;
     text-align: center;
     font-size: 1rem;
-    background-color: white;
+    font-weight: bold;
+    background-color:rgb(255, 255, 255);
+    border: #8B7065 2px solid;
     color: #8B7065;
+    cursor: pointer;
+}
+
+.send-button:hover {
+    background-color: #8B7065;
+    color: white;
+    border: white 2px solid;
 }
