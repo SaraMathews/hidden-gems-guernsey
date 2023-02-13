@@ -26,12 +26,17 @@
             <h2><i class="fa fa-diamond"></i>   Hidden Gems</h2>
         </section>
 
-        <div class="-contact-container">
+        <div>
             <form method="post" action="/thank-you.html" class="contact-form">
                     <h3>Contact us</h3>
-                    <input type="text" class="text-input" placeholder="Your Name" required>
-                    <input type="email" class="text-input" placeholder="Your Email" required>
-                    <textarea type="text" class="text-input" placeholder="Your Question" required>
+                    <label for="name">Your Name</label>
+                    <input type="text" class="text-input" id="name" required>
+
+                    <label for="email">Your email</label>
+                    <input type="email" class="text-input" id="email" required>
+
+                    <label for="question">Your Question</label>
+                    <textarea type="text" class="question" id="question" required>
                     </textarea>
                     <input type="submit" value="Send" class="send-button">
             </form>

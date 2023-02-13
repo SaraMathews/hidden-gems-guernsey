@@ -110,19 +110,44 @@ footer {
 }
 
 /* Contact form */
-.contact-container {
-
-}
-
 .contact-form {
     height: 800px;
     width: 70vw;
     background-color: rgb(139, 112, 101, 0.7);
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
+h3 {
+    font-family: Dancing Script, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
 .text-input {
     background: white;
     color: #8B7065;
+    width: 50%;
+    height: 30px;
+    margin: 5px 0 20px 0;
+}
     
-    
+.question {
+    width: 50%;
+    height: 200px;
+
+}
+.send-button {
+    margin-top: 20px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: white;
+    color: #8B7065;
 }
