@@ -122,7 +122,7 @@ footer {
     align-items: center;
 }
 
-h3 {
+#h3-contact {
     font-family: Dancing Script, sans-serif;
     font-size: 3rem;
     text-align: center;
@@ -168,10 +168,20 @@ label {
 }
 
 /* Beaches page */
-.box-bg {
+.container-bg {
     position: relative;
-    height: 300px;
-    width: 400px;
-    background-color: rgb(255, 255, 255);
+}
+
+.text-box {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(255, 255, 255, 0.7);
     color: #8B7065;
+}
+
+#thank-you {
+    font-family: Dancing Script, sans-serif;
+    font-size: 3rem;
+    text-align: center;
 }
