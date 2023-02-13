@@ -108,3 +108,21 @@ footer {
 .social-media li a:hover {
     color: white; 
 }
+
+/* Contact form */
+.contact-container {
+
+}
+
+.contact-form {
+    height: 800px;
+    width: 70vw;
+    background-color: rgb(139, 112, 101, 0.7);
+    margin: 0 auto;
+}
+.text-input {
+    background: white;
+    color: #8B7065;
+    
+    
+}
