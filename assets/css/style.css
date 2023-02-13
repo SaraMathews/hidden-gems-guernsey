@@ -52,14 +52,13 @@ nav {
 }
 
 /*Logo box under nav bar */
-.logo-box {
+.logo-container {
     background-color: rgb(255, 255, 255, 0.7);
     height: 100px;
     width: 100%;
     position: absolute;
     top: 70px;
     padding-top: 5px;
-
 }
 
 h1 {
@@ -73,3 +72,4 @@ h2 {
     font-size: 1.5rem;
     text-align: center;
 }
+
