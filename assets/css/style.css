@@ -167,5 +167,11 @@ label {
     border: white 2px solid;
 }
 
-/* Thank you page */ 
-
+/* Beaches page */
+.box-bg {
+    position: relative;
+    height: 300px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    color: #8B7065;
+}
