@@ -49,6 +49,10 @@ nav {
     color: white;
 }
 
+#menu-button {
+    border-bottom: #53423C 2px solid;
+}
+
 /* Background image */
 .bg-img {
     height: 100vh;
@@ -187,6 +191,3 @@ label {
 }
 
 
-#menu-button {
-    color: white;
-}
