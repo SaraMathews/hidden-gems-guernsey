@@ -220,14 +220,6 @@ h3 {
     text-align: center;
 }
 
-/* Image beach.html */
-#img-beach {
-    width: 300px;
-    height: 300px;
-    border-radius: 5px;
-    margin-left: 20px;
-}
-
 /*Text about beaches */
 ul {
     list-style: none;
