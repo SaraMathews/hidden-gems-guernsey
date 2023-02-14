@@ -198,7 +198,7 @@ label {
 
 .text-box {
     width: 550px;
-    height: 400px;
+    height: 500px;
     background-color:rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
@@ -220,15 +220,26 @@ h3 {
     text-align: center;
 }
 
+#small-island {
+    padding-top: 85px;
+}
+
 /*Text about beaches */
 ul {
     list-style: none;
 }
-#beaches-box {
-    height: 500px;
-}
+
 h4 {
     font-family: Dancing Script;
     font-size: 1.7rem;
     padding-top: 15px;
 }
+
+img {
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
