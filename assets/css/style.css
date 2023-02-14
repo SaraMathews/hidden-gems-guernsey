@@ -9,7 +9,7 @@
 body {
     margin: auto;
     font-family: Lato, sans-serif;
-    color: #8B7065;
+    color: #53423C;
     background-color: white;
 }
 
@@ -40,9 +40,9 @@ nav {
 }
 
 .nav-list li a {
-    color: #8B7065;
     font-size: 1.2rem;
     text-decoration: none;
+    color: #53423C;
 }
 
 .nav-list li a:hover {
@@ -104,7 +104,7 @@ footer {
 }
 
 .social-media li a {
-    color: #8B7065;
+    color: #53423C;
     font-size: 1.5rem;
     text-decoration: none;
 }
@@ -117,9 +117,9 @@ footer {
 .contact-form {
     height: 550px;
     width: 300px;
-    background-color: rgb(139, 112, 101, 0.7);
+    background-color: rgb(83, 66, 60, 0.7);
     margin: auto;
-    margin-top: 250px;
+    margin-top: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -139,15 +139,15 @@ label {
 }
 
 .text-input {
-    background: rgb(255, 255, 255, 0.8);
+    background: rgb(255, 255, 255);
     color: black;
     width: 250px;
     height: 30px;
     margin: 5px 0 20px 0;
 }
     
-.question {
-    background: rgb(255, 255, 255, 0.8);
+.question-box {
+    background: rgb(255, 255, 255);
     width: 250px;
     height: 200px;
 
@@ -160,13 +160,13 @@ label {
     font-size: 1rem;
     font-weight: bold;
     background-color:rgb(255, 255, 255);
-    border: #8B7065 2px solid;
-    color: #8B7065;
+    border: #53423C 2px solid;
+    color: #53423C;
     cursor: pointer;
 }
 
 .send-button:hover {
-    background-color: #8B7065;
+    background-color: #53423C;
     color: white;
     border: white 2px solid;
 }
@@ -184,11 +184,4 @@ label {
     width: 400px;
     height: 500px;
     background-color: rgb(255, 255, 255, 0.7);
-    color: #8B7065;
-}
-
-#h3-box {
-    font-family: Dancing Script, sans-serif;
-    font-size: 3rem;
-    text-align: center;
 }
