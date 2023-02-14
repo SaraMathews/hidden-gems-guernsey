@@ -188,6 +188,11 @@ label {
     width: 400px;
     height: 500px;
     background-color: rgb(255, 255, 255, 0.7);
+    text-align: center;
+    padding: 10px 10px;
 }
 
-
+h3 {
+    font-family: Dancing Script, sans-serif;
+    font-size: 2.5rem;
+}
