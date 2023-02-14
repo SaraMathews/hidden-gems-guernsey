@@ -61,6 +61,7 @@ nav {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 /*Logo box under nav bar */
@@ -184,14 +185,27 @@ label {
 }
 
 .text-box {
-    width: 400px;
-    height: 500px;
-    background-color: rgb(255, 255, 255, 0.7);
+    width: 550px;
+    height: 650px;
+    background-color:rgb(83, 66, 60, 0.9);
     text-align: center;
-    padding: 10px 10px;
+    color: white;
+    border-bottom: #53423C 2px solid;
+    border-left: #53423C 2px solid;
+    border-top: #53423C 2px solid;
 }
 
 h3 {
     font-family: Dancing Script, sans-serif;
     font-size: 2.5rem;
+    padding-top: 15px; 
+}
+
+/* Image on beach.html */
+#img-beach {
+    width: 550px;
+    height: 650px;
+    border-bottom: #53423C 2px solid;
+    border-right: #53423C 2px solid;
+    border-top: #53423C 2px solid;
 }
