@@ -46,3 +46,16 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here https://saramathews.github.io/hidden-gems-guernsey/
 
 ## Credits 
+### Content 
+- The information about the different beaches was given to me by my mother in law who lives in Guernsey. 
+
+- The icons in the footer and logo bar were taken from Font Awesome
+
+- The instructions how to set up the footer was taken from the Love Running module on Code Institute LMS. 
+
+- The contact form was made implementing parts of the instructions from the Love Running module on Code Institute LMS.
+
+- The Headings in the Testing report was taken from an expamle sent to me from my mentor Daisy McGirr
+
+### Media 
+- The background picture used was taken from https://unsplash.com/photos/jdllAIKciSM
