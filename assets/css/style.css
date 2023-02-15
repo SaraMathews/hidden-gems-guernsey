@@ -141,7 +141,7 @@ footer {
 
 
 /* Text container */
-.container-brown {
+.container {
     height: 100%;
     display: flex;
     justify-content: center;
@@ -270,18 +270,34 @@ ul {
 /*Media queries for text box*/
 @media screen and (max-width: 500px) {
     .text-box {
-    height: 500px;
+        height: 350px;
+    }
+    
+    .text-box p {
+    font-size: 1rem;
+    }
+
+    h3 {
+        font-size: 2rem;
     }
 }
 
 @media screen and (max-width: 390px) {
     .text-box {
-    height: 600px;
+        height: 300px;
+    }
+
+    .text-box p {
+    font-size: 0.8rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
     }
 }
 
-@media screen and (max-width: 1250px) {
+/*@media screen and (max-width: 1250px) {
     .container-brown {
     flex-direction: column;
     }
-}
+} */
