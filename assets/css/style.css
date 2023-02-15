@@ -270,38 +270,44 @@ ul {
 
 /* Media queries */
 
-/*Media queries for text box*/
+/*Media queries for medium screen sizes from 500px and below */
 @media screen and (max-width: 500px) {
     .text-box {
         height: 350px;
     }
 
     .text-box p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     }
 
     h3 {
         font-size: 2rem;
+        margin-top: 10px;
     }
 }
 
+/*Media queries for medium screen sizes from 440px and below */
+@media screen and (max-width: 440px) {
+    .text-box {
+        height: 370px;
+    }
+}
+
+/*Media queries for medium screen sizes from 390px and below */
 @media screen and (max-width: 390px) {
     .text-box {
-        height: 300px;
+        height: 390px;
     }
-
+    
     .text-box p {
-    font-size: 0.8rem;
-    }
+        font-size: 1rem;
+        }
 
     h3 {
         font-size: 1.5rem;
     }
 }
 
-/*@media screen and (max-width: 1250px) {
-    .container-brown {
-    flex-direction: column;
-    }
-} */
+
+    
 
