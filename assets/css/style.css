@@ -259,8 +259,8 @@ ul {
     margin-top: 100px;
     margin-left: 20px;
     margin-right: 20px;
-    background-image: url('../images/map.jpg');
-    object-fit: contain;
+    background: url('../images/map.jpg') no-repeat;
+    background-size: contain;
     border-radius: 5px;
 }
 
