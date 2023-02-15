@@ -15,7 +15,26 @@ body {
 
 main {
     height: 100%;
-    
+}
+
+h1 {
+    font-family: Dancing Script, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-family: Dancing Script, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: Dancing Script, sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
 }
 
 /* Navigation menu */
@@ -54,6 +73,7 @@ nav {
     border-bottom: #53423C 2px solid;
 }
 
+
 /* Background image */
 .bg-img {
     height: 100vh;
@@ -64,7 +84,8 @@ nav {
     background-size: cover;
 }
 
-/*Logo box under nav bar */
+
+/*Logo container under nav bar */
 .logo-container {
     background-color: rgb(255, 255, 255, 0.7);
     height: 100px;
@@ -74,17 +95,6 @@ nav {
     padding-top: 5px;
 }
 
-h1 {
-    font-family: Dancing Script, sans-serif;
-    font-size: 3rem;
-    text-align: center;
-}
-
-h2 {
-    font-family: Dancing Script, sans-serif;
-    font-size: 1.5rem;
-    text-align: center;
-}
 
 /* Footer */
 footer {
@@ -118,26 +128,36 @@ footer {
     color: white; 
 }
 
-/* Contact form */
-/*.contact-form {
-    height: 550px;
-    width: 300px;
-    background-color: rgb(83, 66, 60, 0.9);
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-} */
 
-.contact-container {
+
+/* Text container */
+.container-brown {
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* Text box  */
+.text-box {
+    width: 550px;
+    height: 400px;
+    margin-top: 100px;
+    background-color:rgb(83, 66, 60, 0.9);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+.text-box > p {
+    font-size: 1.2rem;
+    font-style: italic;
+    padding-right: 20px;
+    padding-left: 20px;
+}    
+
+
+/* Contact form */
 .contact-form {
     width: 300px;
     height: 550px;
@@ -146,16 +166,6 @@ footer {
     text-align: center;
     color: white;
     border-radius: 5px;
-}
-
-
-
-#h3-contact {
-    font-family: Dancing Script, sans-serif;
-    font-size: 3rem;
-    text-align: center;
-    color: white;
-    margin-bottom: 20px;
 }
 
 label {
@@ -195,56 +205,6 @@ label {
     border: white 2px solid;
 }
 
-/*Thank you page */
-.thankyou-box {
-    height: 550px;
-    width: 300px;
-    background-color:rgb(83, 66, 60, 0.9);
-    text-align: center;
-    color: white;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
-/* Container brown background */
-.container-bg {
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.text-box {
-    width: 550px;
-    height: 400px;
-    margin-top: 100px;
-    background-color:rgb(83, 66, 60, 0.9);
-    text-align: center;
-    color: white;
-    border-radius: 5px;
-}
-
-#beach-box {
-    height: 500px;
-}
-
-.text-box > p {
-    font-size: 1.2rem;
-    font-style: italic;
-    padding-right: 20px;
-    padding-left: 20px;
-}       
-
-h3 {
-    margin-top: 20px;
-    font-family: Dancing Script, sans-serif;
-    font-size: 2.5rem;
-    text-align: center;
-}
-
-#small-island {
-    padding-top: 30px;
-}
 
 /*Top 3 beaches list and image */
 ul {
@@ -264,4 +224,12 @@ img {
     border-radius: 5px;
     margin-left: 20px;
     margin-top: 70px;
+}
+
+#beach-box {
+    height: 500px;
+}
+
+#small-island {
+    padding-top: 30px;
 }
