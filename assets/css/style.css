@@ -267,7 +267,7 @@ ul {
 
 /* Media queries */
 
-/* Media queries for text box */
+/*Media queries for text box*/
 @media screen and (max-width: 500px) {
     .text-box {
     height: 500px;
@@ -280,3 +280,8 @@ ul {
     }
 }
 
+@media screen and (max-width: 1250px) {
+    .container-brown {
+    flex-direction: column;
+    }
+}
