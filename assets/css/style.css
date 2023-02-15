@@ -119,18 +119,36 @@ footer {
 }
 
 /* Contact form */
-.contact-form {
+/*.contact-form {
     height: 550px;
     width: 300px;
     background-color: rgb(83, 66, 60, 0.9);
     margin: auto;
-    margin-top: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     border-radius: 5px;
+} */
+
+.contact-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.contact-form {
+    width: 300px;
+    height: 550px;
+    margin-top: 100px;
+    background-color:rgb(83, 66, 60, 0.9);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+
 
 #h3-contact {
     font-family: Dancing Script, sans-serif;
@@ -147,14 +165,14 @@ label {
 .text-input {
     background: rgb(255, 255, 255);
     color: black;
-    width: 250px;
+    width: 260px;
     height: 30px;
     margin: 5px 0 20px 0;
 }
     
 .question-box {
     background: rgb(255, 255, 255);
-    width: 250px;
+    width: 260px;
     height: 200px;
 
 }
