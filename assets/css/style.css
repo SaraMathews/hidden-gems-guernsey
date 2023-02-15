@@ -166,6 +166,8 @@ footer {
 
 #small-island {
     padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
@@ -258,3 +260,25 @@ ul {
     border-radius: 5px;
 }
 
+/* Media queries */
+@media screen and (max-width: 500px) {
+    .text-box {
+    height: 500px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 390px) {
+    .text-box {
+    height: 600px;
+    }
+}
