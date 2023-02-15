@@ -46,6 +46,9 @@ h4 {
 #h3-thank-you {
     padding-top: 80px;
 }
+#h3-contact {
+    font-size: 2.5rem;
+}
 
 /* Navigation menu */
 nav {
@@ -272,7 +275,7 @@ ul {
     .text-box {
         height: 350px;
     }
-    
+
     .text-box p {
     font-size: 1rem;
     }
@@ -301,3 +304,4 @@ ul {
     flex-direction: column;
     }
 } */
+
