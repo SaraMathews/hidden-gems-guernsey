@@ -149,6 +149,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 /* Text box  */
@@ -257,7 +258,7 @@ ul {
 /*Top 3 beaches image */
 .img-map {
     padding-right: 20px;
-    width: 400px;
+    width: 650px;
     height: 500px;
     margin-top: 100px;
     margin-left: 20px;
@@ -266,6 +267,7 @@ ul {
     background-size: contain;
     border-radius: 5px;
 }
+
 
 
 /* Media queries */
@@ -333,6 +335,16 @@ ul {
     }
 }
 
+
+/*Media queries for small screen size from  and below */
+@media screen and (max-width: 1400px) {
+    .img-map {
+        margin-top: 10px;
+    }
+.text-box-beach {
+    margin-top: 200px;
+}
+}
 
     
 
