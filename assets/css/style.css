@@ -270,7 +270,7 @@ ul {
 
 /* Media queries */
 
-/*Media queries for medium screen sizes from 500px and below */
+/*Media queries for medium screen size from 500px width and below */
 @media screen and (max-width: 500px) {
     .text-box {
         height: 350px;
@@ -286,14 +286,14 @@ ul {
     }
 }
 
-/*Media queries for medium screen sizes from 440px and below */
+/*Media queries for medium to small screen size from 440px width and below */
 @media screen and (max-width: 440px) {
     .text-box {
         height: 370px;
     }
 }
 
-/*Media queries for medium screen sizes from 390px and below */
+/*Media queries for small screen size from 390px width and below */
 @media screen and (max-width: 390px) {
     .text-box {
         height: 390px;
@@ -305,6 +305,31 @@ ul {
 
     h3 {
         font-size: 1.5rem;
+    }
+}
+
+/*Media queries for small screen size from 850px height and below */
+@media screen and (max-height: 850px) {
+    .contact-form {
+        height: 400px;
+    }
+
+    .question-box {
+        height: 125px;
+    }
+
+    .text-input {
+        height: 25px;
+    }
+
+    #h3-contact {
+        font-size: 2rem;
+    }
+
+    .send-button {
+        margin-top: 5px;
+        padding: 5px 15px 5px 15px;
+        font-size: 0.9rem;
     }
 }
 
