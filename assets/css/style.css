@@ -336,14 +336,14 @@ ul {
 }
 
 
-/*Media queries for small screen size from  and below */
+/*Media queries for small screen size from 1400px width and below */
 @media screen and (max-width: 1400px) {
     .img-map {
         margin-top: 10px;
     }
-.text-box-beach {
+    .text-box-beach {
     margin-top: 200px;
-}
+    }
 }
 
     
