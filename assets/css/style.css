@@ -37,6 +37,12 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-family: Dancing Script;
+    font-size: 1.5rem;
+    padding-top: 15px;
+}
+
 /* Navigation menu */
 nav {
     width: 100%;
@@ -143,6 +149,8 @@ footer {
     width: 550px;
     height: 400px;
     margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color:rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
@@ -155,6 +163,10 @@ footer {
     padding-right: 20px;
     padding-left: 20px;
 }    
+
+#small-island {
+    padding-top: 30px;
+}
 
 
 /* Contact form */
@@ -206,30 +218,43 @@ label {
 }
 
 
-/*Top 3 beaches list and image */
+/*Top 3 beaches list */
+.text-box-beach {
+    width: 650px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:rgb(83, 66, 60, 0.9);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+.text-box-beach li {
+    font-style: italic;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 ul {
     list-style: none;
 }
 
-h4 {
-    font-family: Dancing Script;
-    font-size: 1.5rem;
-    padding-top: 15px;
+.list {
+    margin-top: 20px;
 }
 
-img {
-    height: 400px;
-    width: 550px;
+/*Top 3 beaches image */
+.img-map {
+    padding-right: 20px;
+    width: 650px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-image: url('../images/Portelet.jpg');
     object-fit: cover;
     border-radius: 5px;
-    margin-left: 20px;
-    margin-top: 70px;
 }
 
-#beach-box {
-    height: 500px;
-}
-
-#small-island {
-    padding-top: 30px;
-}
