@@ -279,3 +279,10 @@ ul {
     height: 600px;
     }
 }
+
+/* Media queries for text box beach */
+@media screen and (max-width: 600px) {
+    .text-box-beach {
+    height: 600px;
+    }
+}
