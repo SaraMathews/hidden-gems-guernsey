@@ -3,22 +3,22 @@
 This website is for the tourist looking to explore Guernsey and its hidden gems. For anyone who wants to have a peaceful getaway this website provides information about fantastic beaches with amazing views with coastal and cliff walks. 
 ## Features
 ### Navigation Bar
-The navigation bar is feauterd on all pages of the website. It is identcial for all pages on the website for easy navigation and consistency. It includes links to home page, beaches and contact and will disply which page you are currently on by underlining the page name. This allwos the user to easily navigate between pages. 
+The navigation bar is feauterd on all pages of the website. It is identcial for all pages on the website for easy navigation and consistency. It includes links to home page, beaches and contact and will display which page you are currently on by underlining the page name. This allwos the user to easily navigate between pages. 
 
 ### Logo Bar
-The logo bar displays on all pages underneath the navigation bar so the user is reminded of the websites core value. 
+The logo bar is displayed on all pages underneath the navigation bar to provide consistency throughout the website. 
 
 ### Background image 
 The background image is displayed on all pages to provide a consistent and cohesive layout. It also captures the beauty of the island to reflect the website's intention. 
 
 ### Home page text section 
-This text section immideatly shows the user the value propositon of the beaches in Guernsey. It it also intened to create and intrtest to stay and further explore the website. 
+This text section immediately shows the user the value propositon of the beaches in Guernsey. It is also intened to create an interest to stay and further explore the website. 
 
 ### Footer 
 The footer section provides icons with links to Guernsey's Hidden gems's facebook, twitter and instagram pages. They will open in a new tab to not deviate the user away from the website. 
 
 ### Beaches text section 
-This text section provides a short description of the top 3 beaches in Guernsey with location, features and surronding area for each beach. It communicates the main value of each beach and is indended to attract the user who is looking to potentially visit and explore Guernsey. 
+This text section provides a short description of the top 3 beaches in Guernsey with location, features and surrounding area for each beach. It communicates the main value of each beach and is indended to attract the user who is looking to potentially visit and explore Guernsey. 
 
 ### Image of map 
 The image displays a map of Guernsey with the three locations of the beaches. This gives the user a clear overview to where the different beaches are located. 
@@ -55,7 +55,7 @@ The live link can be found here https://saramathews.github.io/hidden-gems-guerns
 
 - The contact form was made implementing parts of the instructions from the Love Running module on Code Institute LMS.
 
-- The Headings in the Testing report was taken from an expamle sent to me from my mentor Daisy McGirr
+- The Headings in the Testing report were taken from an expamle sent to me from my mentor Daisy McGirr
 
 ### Media 
 - The background picture used was taken from https://unsplash.com/photos/jdllAIKciSM
