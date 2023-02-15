@@ -251,7 +251,7 @@ ul {
     margin-top: 20px;
 }
 
-/*Top 3 beaches image
+/*Top 3 beaches image 
 .img-map {
     padding-right: 20px;
     width: 500px;
@@ -276,13 +276,6 @@ ul {
 
 @media screen and (max-width: 390px) {
     .text-box {
-    height: 600px;
-    }
-}
-
-/* Media queries for text box beach */
-@media screen and (max-width: 600px) {
-    .text-box-beach {
     height: 600px;
     }
 }
