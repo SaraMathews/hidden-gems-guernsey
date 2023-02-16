@@ -1,11 +1,11 @@
 # **Guernsey's Hidden Gems**
 ## **Description**
 This website is for the tourist looking to explore Guernsey and its hidden gems. For anyone who wants to have a peaceful getaway this website provides information about fantastic beaches with amazing views with coastal and cliff walks. 
-![Description image different devices](docs/description.png)
+![Description image of different devices](docs/description.png)
 ## **Features**
 ### *Navigation Bar*
 The navigation bar is located on the top of the page and consists of three menu items: Home, Beaches and Contact. When opening the website the user will find her/himself on the home page. From there the user can navigate between the website's different pages using the navigation bar menu items. 
-The navigation bar is feauterd on all pages of the website. It is identcial for all pages on the website for easy navigation and consistency. It includes links to Home page, Beaches and Contact and will display which page you are currently on by underlining the page name. This allwos the user to easily navigate between pages. 
+The navigation bar is featured on all pages of the website. It is identical for all pages on the website for easy navigation and consistency. It includes links to Home page, Beaches and Contact and will display which page you are currently on by underlining the page name. This allwos the user to easily navigate between pages. 
 
 ### *Logo Bar*
 The logo bar consists of the website logo "Guernsey Hidden Gems" displayed next to a small diamond icon. The bar stretches to the full width of the page with the logo centerted in the middle. The logo bar is displayed on all pages underneath the navigation bar to provide consistency throughout the website. The purpose of the logo bar is to ensure that the user easily knows which website they are currently on. 

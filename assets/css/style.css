@@ -306,14 +306,14 @@ ul {
     }
 }
 
-/*Media queries for small screen size from 850px height and below */
-@media screen and (max-height: 850px) {
+/*Media queries for small screen size from 850px height and below 
+@media screen and (max-height: 600px) {
     .contact-form {
         height: 400px;
     }
 
     .question-box {
-        height: 125px;
+        height: 200px;
     }
 
     .text-input {
@@ -330,3 +330,4 @@ ul {
         font-size: 0.9rem;
     }
 }
+*/
