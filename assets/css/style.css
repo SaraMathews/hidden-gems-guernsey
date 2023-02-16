@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: none; 
+    border: none;
 }
 
 body {
@@ -47,6 +47,7 @@ h4 {
 #h3-thank-you {
     padding-top: 80px;
 }
+
 #h3-contact {
     font-size: 2.5rem;
 }
@@ -136,7 +137,7 @@ footer {
 }
 
 .social-media li a:hover {
-    color: white; 
+    color: white;
 }
 
 /* Text container */
@@ -151,22 +152,22 @@ footer {
 /* Text box  */
 .text-box {
     width: 550px;
-    height: 400px;
+    min-height: 400px;
     margin-top: 250px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color:rgb(83, 66, 60, 0.9);
+    background-color: rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
     border-radius: 5px;
 }
 
-.text-box > p {
+.text-box>p {
     font-size: 1.2rem;
     font-style: italic;
     padding-right: 20px;
     padding-left: 20px;
-}    
+}
 
 #small-island {
     padding-top: 30px;
@@ -177,9 +178,9 @@ footer {
 /* Contact form */
 .contact-form {
     width: 300px;
-    height: 550px;
+    min-height: 550px;
     margin-top: 250px;
-    background-color:rgb(83, 66, 60, 0.9);
+    background-color: rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
     border-radius: 5px;
@@ -196,7 +197,7 @@ label {
     height: 30px;
     margin: 5px 0 20px 0;
 }
-    
+
 .question-box {
     background: rgb(255, 255, 255);
     width: 260px;
@@ -210,7 +211,7 @@ label {
     text-align: center;
     font-size: 1rem;
     font-weight: bold;
-    background-color:rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
     border: #53423C 2px solid;
     color: #53423C;
     cursor: pointer;
@@ -229,7 +230,7 @@ label {
     margin-top: 250px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color:rgb(83, 66, 60, 0.9);
+    background-color: rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
     border-radius: 5px;
@@ -264,12 +265,13 @@ ul {
 }
 
 /* Media queries */
- /*Media queries for medium to small screen size from 1400px width and below */
- @media screen and (max-width: 1400px) {
+/*Media queries for medium to small screen size from 1400px width and below */
+@media screen and (max-width: 1400px) {
     .img-map {
         margin-top: 20px;
     }
 }
+
 /*Media queries for medium screen size from 500px width and below */
 @media screen and (max-width: 500px) {
     .text-box {
@@ -277,7 +279,7 @@ ul {
     }
 
     .text-box p {
-    font-size: 1.1rem;
+        font-size: 1.1rem;
     }
 
     h3 {
@@ -298,10 +300,10 @@ ul {
     .text-box {
         height: 390px;
     }
-    
+
     .text-box p {
         font-size: 1rem;
-        }
+    }
 
     h3 {
         font-size: 1.5rem;
