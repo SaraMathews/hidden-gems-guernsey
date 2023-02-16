@@ -35,7 +35,7 @@ The value to the user is to get deeper and more detailed information in an inter
 ### Thank you section 
 This page opens automatically when a contact form is submitted. This gives the user a confirmation that the query is received. A time estimate for when the user can expect a reply is also given, which is a valuable feature. 
 
-## Features left to implement 
+### Features left to implement 
 - An image gallery of the three different beaches 
 - More detailed information sections about the different beaches
 
@@ -81,4 +81,5 @@ Open Terminal, type git clone followed by the copied URL, and press enter to cre
 - The Headings in the Testing report were taken from an example sent to me by my mentor Daisy McGirr
 
 ### Media 
-- The background picture used was taken from https://unsplash.com/photos/jdllAIKciSM
+- The background image used was taken from https://unsplash.com/photos/jdllAIKciSM
+- The map image is a screenshot of Guernsey using Google Maps

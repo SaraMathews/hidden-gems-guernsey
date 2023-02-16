@@ -230,8 +230,8 @@ label {
     background-color: rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
-    border-radius: 5px;
     padding-bottom: 10px;
+    border-radius: 5px;
 }
 
 .text-box-beach li {
@@ -258,8 +258,7 @@ ul {
     margin-right: 20px;
     background: url('../images/map.jpg') no-repeat;
     background-size: contain;
-    border-radius: 5px;
-}
+} 
 
 /* Media queries */
 /*Media queries for medium to small screen size from 1400px width and below */
