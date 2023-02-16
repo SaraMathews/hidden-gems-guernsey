@@ -49,11 +49,13 @@ This page opens automatically when a contact form is submitted. This gives the u
 ### *Features left to implement* 
 - An image gallery of the three different beaches 
 - A more detailed information section about the different beaches
+- Integrated Google maps with the beaches pinned
 
 ## **Testing**
-XLS
+ ![Screenshot of testing excel sheet](docs/testing-hidden-gems-guernsey.png)
 
  ### *Unfixed bugs*
+ - When 
 
 ## **Deployment**
  ### *Version Control*
@@ -69,7 +71,7 @@ The steps below were followed to deploy the site to GitHub pages:
 -  From the source section drop-down menu, select the "main" branch and click "Save"
 - The page will automatically refresh, and a live link will be displayed on the top of the "GitHub Section," indicating a successful deployment
 
-The live link can be found here
+The live link can be found here- https://saramathews.github.io/hidden-gems-guernsey/
 
 ### *Clone the Repository from GitHub*
 The steps below were followed to clone the repository locally  
@@ -95,3 +97,6 @@ The steps below were followed to clone the repository locally
 - The background image used was taken from https://unsplash.com/photos/jdllAIKciSM
 
 - The map image is a screenshot of Guernsey, using Google Maps
+
+
+[def]: docs/testing-hidden-gems-guernsey.png

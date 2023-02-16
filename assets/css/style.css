@@ -5,11 +5,12 @@
     padding: 0;
     border: none;
 }
+
 html {
     background-image: url('../images/waves.jpg');
-    background-position:center;
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
     min-height: 100%;
     width: 100%;
 }
@@ -258,7 +259,8 @@ ul {
     margin-right: 20px;
     background: url('../images/map.jpg') no-repeat;
     background-size: contain;
-} 
+    border-radius: 5px;
+}
 
 /* Media queries */
 /*Media queries for medium screen size from 1400px width and below */
