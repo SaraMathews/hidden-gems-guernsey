@@ -1,7 +1,7 @@
 # **Guernsey's Hidden Gems**
 ## **Description**
 This website is for the tourist looking to explore Guernsey and its hidden gems. For anyone who wants to have a peaceful getaway this website provides information about fantastic beaches with amazing views with coastal and cliff walks. 
-![assets/images/description.png]
+![Description image different devices](docs/description.png)
 ## **Features**
 ### *Navigation Bar*
 The navigation bar is located on the top of the page and consists of three menu items: Home, Beaches and Contact. When opening the website the user will find her/himself on the home page. From there the user can navigate between the website's different pages using the navigation bar menu items. 
@@ -15,6 +15,7 @@ The background image shows the waves crashing on the shoreline of Cobo Bay on Gu
 
 ### *Home page text section*
 The text describes different sceneries the user can experience while visiting Guernsey and its coast line. This text section immediately shows the user the value propositon of the beaches in Guernsey. It is also intened to create an interest to stay and further explore the website. 
+
 
 ### *Footer* 
 The footer section is located on the bottom of all pages. The footer section provides icons with links to Guernsey's Hidden gems's Facebook, Twitter and Instagram pages. They open in a new tab when clicked on to not deviate the user away from the website. The intention is to give the user easy acces to Guernsey Hidden Gem's social media platforms where the user can obtain more information and interact in an easier way. 
