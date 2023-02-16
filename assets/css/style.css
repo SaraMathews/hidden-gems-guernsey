@@ -261,14 +261,14 @@ ul {
 } 
 
 /* Media queries */
-/*Media queries for medium to small screen size from 1400px width and below */
+/*Media queries for medium screen size from 1400px width and below */
 @media screen and (max-width: 1400px) {
     .img-map {
         margin-top: 20px;
     }
 }
 
-/*Media queries for medium screen size from 500px width and below */
+/*Media queries for medium to small screen size from 500px width and below */
 @media screen and (max-width: 500px) {
     .text-box {
         height: 350px;
@@ -284,7 +284,7 @@ ul {
     }
 }
 
-/*Media queries for medium to small screen size from 440px width and below */
+/*Media queries for small screen size from 440px width and below */
 @media screen and (max-width: 440px) {
     .text-box {
         height: 370px;
@@ -305,29 +305,3 @@ ul {
         font-size: 1.5rem;
     }
 }
-
-/*Media queries for small screen size from 850px height and below 
-@media screen and (max-height: 600px) {
-    .contact-form {
-        height: 400px;
-    }
-
-    .question-box {
-        height: 200px;
-    }
-
-    .text-input {
-        height: 25px;
-    }
-
-    #h3-contact {
-        font-size: 2rem;
-    }
-
-    .send-button {
-        margin-top: 5px;
-        padding: 5px 15px 5px 15px;
-        font-size: 0.9rem;
-    }
-}
-*/
