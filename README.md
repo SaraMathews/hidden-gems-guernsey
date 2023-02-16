@@ -37,6 +37,7 @@ This page opens automatically when a contact form is submitted. This gives the u
 
 ## Features left to implement 
 - An image gallery of the three different beaches 
+- More detailed information sections about the different beaches
 
 ## Testing
 XLS
@@ -57,7 +58,7 @@ The steps below were followed to deploy the site to GitHub pages:
 -  From the source section drop-down menu, select the "main" branch and click "Save"
 - The page will automatically refresh, and a live link will be displayed on the top of the "GitHub Section," indicating a successful deployment
 
-The live link can be found here https://saramathews.github.io/hidden-gems-guernsey/
+The live link can be found here
 
 ### Clone the Repository from GitHub
 The steps below were followed to clone the repository locally  
