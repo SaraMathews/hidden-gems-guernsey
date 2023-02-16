@@ -22,11 +22,11 @@ The text describes different sceneries the user can experience while visiting Gu
 
 ![Image of the home page text section](docs/home-page-section.png)
 ### *Footer* 
-The footer section is located on the bottom of all pages. The footer section provides icons with links to Guernsey's Hidden gems's Facebook, Twitter and Instagram pages. They open in a new tab when clicked on to not deviate the user away from the website. The intention is to give the user easy acces to Guernsey Hidden Gem's social media platforms where the user can obtain more information and interact in an easier way. 
+The footer section is located on the bottom of all pages. The footer section provides icons with links to Guernsey's Hidden gems's Facebook, Twitter and Instagram pages. They open in a new tab when clicked on to not deviate the user away from the website. The intention is to give the user easy acces to Guernsey Hidden Gem's Social Media platforms where the user can obtain more information and interact in an easier way. 
 
 ![Image of footer](docs/footer.png)
 ### *Beaches text section*
-This text section provides a short description of the top 3 beaches in Guernsey with location, features and surrounding area for each beach. It communicates the main value of each beach and is indended to attract the user who is looking to potentially visit and explore Guernsey. 
+This text section provides a short description of the top 3 beaches in Guernsey with locations, features and surrounding area for each beach. It communicates the main value of each beach and is indended to attract the user who is looking to potentially visit and explore Guernsey. 
 
 ![Image of beaches page text section](docs/beaches-text-section.png)
 ### *Image of map* 
@@ -56,13 +56,13 @@ This page opens automatically when a contact form is submitted. This gives the u
 
 
  ### *Unfixed bugs*
- - When the `padding-right` property is set to 20px on the class img.map, the `border-radius` property that is set to 5px only displays on the left top and bottom corners of the map image (on the page "Beaches"). It does not display on the right-hand side corners. If I remove the `padding-right` property completely from class img-map the `border-raduis` property set to 5px is displayed on all corners of the map image. This is a bug i discovered late and was not able to fix before the deadline for PP1. 
+ - When the `padding-right` property is set to 20px on the class img.map, the `border-radius` property that is set to 5px only displays on the left-hand side top and bottom corners of the map image (on the page "Beaches"). It does not display on the right-hand side corners. If I remove the `padding-right` property completely from class img-map the `border-radius` property set to 5px is displayed on all corners of the map image. This is a bug I discovered late and was not able to fix before the deadline for PP1. 
 
 ## **Deployment**
  ### *Version Control*
 The git commands below were used throughout development to push code to the remote repository in GitHub:
 - `git add .` - This command was used to add a change in the working directory to the staging area
-- `git commit -m "message"` -This command was used to save changes to the local repository. A brief description of what has changed and when.
+- `git commit -m "message"` -This command was used to save changes to the local repository. A brief description of what has changed and when
 - `git push` - This command was used to push all commits to the remote repository on GitHub
 
 ### *Deployment to Github Pages*
@@ -90,7 +90,7 @@ The steps below were followed to clone the repository locally
 
 - The instructions on how to set up the footer were taken from the Love Running module on Code Institute LMS
 
-- The contact form was made implementing parts of the instructions from the Love Running module on Code Institute LMS.
+- The contact form was made implementing parts of the instructions from the Love Running module on Code Institute LMS
 
 - The Headings in the Testing report were taken from an example sent to me by my mentor Daisy McGirr
 
@@ -98,6 +98,3 @@ The steps below were followed to clone the repository locally
 - The background image used was taken from https://unsplash.com/photos/jdllAIKciSM
 
 - The map image is a screenshot of Guernsey, using Google Maps
-
-
-[def]: docs/testing-hidden-gems-guernsey.png
