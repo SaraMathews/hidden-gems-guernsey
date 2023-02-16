@@ -5,7 +5,7 @@ This website is for the tourist looking to explore Guernsey and its hidden gems.
 ![Description image of different devices](docs/description.png)
 ## **Features**
 ### *Navigation Bar*
-The navigation bar is located on the top of the page and consists of three menu items: Home, Beaches and Contact. When opening the website the user will find her/himself on the home page. From there the user can navigate between the website's different pages using the navigation bar menu items. 
+The navigation bar is located on the top of the page and consists of three menu items: Home, Beaches and Contact. When opening the website the user will land on the home page. From there the user can navigate between the website's different pages using the navigation bar menu items. 
 The navigation bar is featured on all pages of the website. It is identical for all pages on the website for easy navigation and consistency. It includes links to Home page, Beaches and Contact and will display which page you are currently on by underlining the page name. This allwos the user to easily navigate between pages. 
 
 ![Image of navigation bar](docs/navigation-bar.png)
@@ -53,6 +53,7 @@ This page opens automatically when a contact form is submitted. This gives the u
 
 ## **Testing**
  ![Screenshot of testing excel sheet](docs/testing-hidden-gems-guernsey.png)
+
 
  ### *Unfixed bugs*
  - When the `padding-right` property is set to 20px on the class img.map, the `border-radius` property that is set to 5px only displays on the left top and bottom corners of the map image (on the page "Beaches"). It does not display on the right-hand side corners. If I remove the `padding-right` property completely from class img-map the `border-raduis` property set to 5px is displayed on all corners of the map image. This is a bug i discovered late and was not able to fix before the deadline for PP1. 
