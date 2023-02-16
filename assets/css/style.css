@@ -83,7 +83,7 @@ nav {
     color: white;
 }
 
-#menu-button {
+.active {
     border-bottom: #53423C 2px solid;
 }
 
@@ -332,7 +332,3 @@ ul {
         font-size: 0.9rem;
     }
 }
-
-    
-
-
