@@ -55,7 +55,7 @@ This page opens automatically when a contact form is submitted. This gives the u
  ![Screenshot of testing excel sheet](docs/testing-hidden-gems-guernsey.png)
 
  ### *Unfixed bugs*
- - When 
+ - When the `padding-right` property is set to 20px on the class img.map, the `border-radius` property that is set to 5px only displays on the left top and bottom corners of the map image (on the page "Beaches"). It does not display on the right-hand side corners. If I remove the `padding-right` property completely from class img-map the `border-raduis` property set to 5px is displayed on all corners of the map image. This is a bug i discovered late and was not able to fix before the deadline for PP1. 
 
 ## **Deployment**
  ### *Version Control*

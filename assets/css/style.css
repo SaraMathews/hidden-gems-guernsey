@@ -228,10 +228,10 @@ label {
     margin-top: 250px;
     margin-left: 20px;
     margin-right: 20px;
+    padding-right: 20px;
     background-color: rgb(83, 66, 60, 0.9);
     text-align: center;
     color: white;
-    padding-bottom: 10px;
     border-radius: 5px;
 }
 
@@ -251,12 +251,12 @@ ul {
 
 /*Top 3 beaches image */
 .img-map {
-    padding-right: 20px;
     width: 650px;
     min-height: 500px;
     margin-top: 250px;
     margin-left: 20px;
     margin-right: 20px;
+    padding-right: 20px;
     background: url('../images/map.jpg') no-repeat;
     background-size: contain;
     border-radius: 5px;
@@ -267,7 +267,10 @@ ul {
 @media screen and (max-width: 1400px) {
     .img-map {
         margin-top: 20px;
+        padding-right: 0;
     }
+
+
 }
 
 /*Media queries for medium to small screen size from 500px width and below */
